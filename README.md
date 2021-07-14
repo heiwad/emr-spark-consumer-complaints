@@ -9,7 +9,7 @@ To automate this process launch-cluster.sh is provided.
 To try the demo
 
 1. Open AWS Cloud Shell
-2. Git clone the repo
+2. Git clone the repo in Cloud Shell
 3. Run `sh ./launch-cluster.sh` in the Cloud Shell session to set up your environment.
 4. Switch to the EMR Console and create an EMR notebook.
 5. Attach the notebook to `Notebook cluster` and then open Jupyter to start the notebook session.
